@@ -48,10 +48,10 @@ export const Form = styled.form<FormProps>`
     border-radius: 0px 5px 5px 0px;
     font-weight: bold;
     transition: background-color 0.2s;
-  }
 
-  &:hover {
-    background: ${shade(0.2, "#04d361")};
+    &:hover {
+      background: ${shade(0.2, "#04d361")};
+    }
   }
 `;
 
