@@ -4,7 +4,9 @@
 
 ## Descrição
 
-> An application that displays information from repositories using the gitHub api itself, this application was built in one of the bootStamp GoStack modules from [Rockeseat](https://rocketseat.com.br/)
+An application that displays information from repositories using the gitHub api itself, this application was built in one of the bootStamp GoStack modules from [Rockeseat](https://rocketseat.com.br/)
+
+>[live Demo](https://git-hub-explore.vercel.app/)
 
 ## Instalação
 
