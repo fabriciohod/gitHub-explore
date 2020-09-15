@@ -4,7 +4,9 @@
 
 ## Descrição
 
-> Uma aplicação que mostra informações de repositórios utilizando a api do próprio gitHub, essa aplicação foi construida em um dos módulos do bootCamp GoStack da [Rockeseat](https://rocketseat.com.br/)
+Uma aplicação que mostra informações de repositórios utilizando a api do próprio gitHub, essa aplicação foi construida em um dos módulos do bootCamp GoStack da [Rockeseat](https://rocketseat.com.br/)
+
+>[live Demo](https://git-hub-explore.vercel.app/)
 
 ## Instalação
 
